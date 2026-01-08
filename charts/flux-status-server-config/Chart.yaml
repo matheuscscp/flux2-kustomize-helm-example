@@ -1,0 +1,6 @@
+apiVersion: v2
+name: flux-status-server-config
+description: A Helm chart for Flux Status Server configuration
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
