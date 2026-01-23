@@ -23,7 +23,6 @@ spec:
     url: "https://github.com/matheuscscp/flux2-kustomize-helm-example.git"
     ref: "refs/heads/main"
     path: "clusters/staging"
-    pullSecret: "flux-system"
   kustomize:
     patches:
     - patch: |
